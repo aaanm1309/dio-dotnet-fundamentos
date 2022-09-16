@@ -1,0 +1,15 @@
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\bin\Debug\net6.0\fundamentos.exe
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\bin\Debug\net6.0\fundamentos.deps.json
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\bin\Debug\net6.0\fundamentos.runtimeconfig.json
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\bin\Debug\net6.0\fundamentos.dll
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\bin\Debug\net6.0\fundamentos.pdb
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\obj\Debug\net6.0\fundamentos.csproj.AssemblyReference.cache
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\obj\Debug\net6.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\obj\Debug\net6.0\fundamentos.AssemblyInfoInputs.cache
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\obj\Debug\net6.0\fundamentos.AssemblyInfo.cs
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\obj\Debug\net6.0\fundamentos.csproj.CoreCompileInputs.cache
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\obj\Debug\net6.0\fundamentos.dll
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\obj\Debug\net6.0\refint\fundamentos.dll
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\obj\Debug\net6.0\fundamentos.pdb
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\obj\Debug\net6.0\fundamentos.genruntimeconfig.cache
+D:\Adriano\cursos\dio\dio-dotnet-fundamentos\fundamentos\obj\Debug\net6.0\ref\fundamentos.dll
